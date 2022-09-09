@@ -1,0 +1,28 @@
+.video-player-container {
+  background-color: #202020;
+  padding-top: 1rem;
+  padding-bottom: 6rem;
+}
+
+.video-player {
+  width: 80vmax;
+  height: 40vmax;
+  margin: 0 auto;
+}
+
+.responsive-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 10px;
+}
+
+.video-player-info-container {
+  padding-bottom: 1rem;
+  color: white;
+  border-bottom: 1px solid gray;
+}
+
+.vote-pills {
+  color: white;
+}

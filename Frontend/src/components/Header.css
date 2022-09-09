@@ -1,0 +1,27 @@
+.header__container {
+  padding: 1rem;
+  background-color: #202020;
+}
+
+.header__search-bar {
+  background-color: white;
+  border: 1px solid #444d56;
+  width: 40vmax;
+}
+
+.header__search-text {
+  background-color: #121212;
+  color: white !important;
+  width: 100%;
+}
+
+.header__search-icon {
+  border-radius: 0 !important;
+  height: auto;
+  background-color: #313131 !important;
+  /* width: auto; */
+}
+
+.header__dialog-modal {
+  background-color: rebeccapurple;
+}

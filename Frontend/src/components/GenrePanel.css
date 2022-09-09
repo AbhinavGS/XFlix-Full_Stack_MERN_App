@@ -1,0 +1,49 @@
+.genre-panel__container {
+  background-color: #202020;
+}
+
+.genre-panel-genre-stack {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.genre-pills {
+  background-color: #202020 !important;
+  color: white !important;
+}
+
+.genre-pills:hover {
+  cursor: pointer;
+}
+
+.active-pill {
+  background-color: #fff !important;
+  color: black !important;
+}
+
+.genre-panel-sort {
+  font-size: 13px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px 20px;
+  margin: 10px 10px 10px 0px;
+}
+
+#sortby {
+  border: none;
+  outline:0;
+  cursor: pointer;
+}
+
+.genre-panel-age-stack {
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+/* remove default arrow from select options dropdown */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: "";
+}

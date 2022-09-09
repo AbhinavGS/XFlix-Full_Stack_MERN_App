@@ -1,0 +1,20 @@
+.Modal-Form-container {
+  /* border: 1px solid red; */
+  margin: 0.5rem 1rem;
+  color: gray !important;
+}
+
+#outlined-basic-helper-text {
+  color: gray;
+}
+
+#outlined-select-genre-helper-text {
+  color: gray;
+}
+#outlined-select-age-helper-text {
+  color: gray;
+}
+#date-helper-text {
+  color: gray;
+  font-weight: lighter;
+}
